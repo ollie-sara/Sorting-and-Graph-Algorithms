@@ -143,7 +143,7 @@ public class ShortestPath {
 			}
 		}
 		
-		return d[10];			// Send the final array off into space
+		return d[n];			// Send the final array off into space
 	}
 	
 	// Johnson
